@@ -1,0 +1,15 @@
+C:\Users\Sheki-Komp\Desktop\classhometask\Singertask\Singertask\bin\Debug\net8.0\Singertask.exe
+C:\Users\Sheki-Komp\Desktop\classhometask\Singertask\Singertask\bin\Debug\net8.0\Singertask.deps.json
+C:\Users\Sheki-Komp\Desktop\classhometask\Singertask\Singertask\bin\Debug\net8.0\Singertask.runtimeconfig.json
+C:\Users\Sheki-Komp\Desktop\classhometask\Singertask\Singertask\bin\Debug\net8.0\Singertask.dll
+C:\Users\Sheki-Komp\Desktop\classhometask\Singertask\Singertask\bin\Debug\net8.0\Singertask.pdb
+C:\Users\Sheki-Komp\Desktop\classhometask\Singertask\Singertask\obj\Debug\net8.0\Singertask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sheki-Komp\Desktop\classhometask\Singertask\Singertask\obj\Debug\net8.0\Singertask.AssemblyInfoInputs.cache
+C:\Users\Sheki-Komp\Desktop\classhometask\Singertask\Singertask\obj\Debug\net8.0\Singertask.AssemblyInfo.cs
+C:\Users\Sheki-Komp\Desktop\classhometask\Singertask\Singertask\obj\Debug\net8.0\Singertask.csproj.CoreCompileInputs.cache
+C:\Users\Sheki-Komp\Desktop\classhometask\Singertask\Singertask\obj\Debug\net8.0\Singertask.sourcelink.json
+C:\Users\Sheki-Komp\Desktop\classhometask\Singertask\Singertask\obj\Debug\net8.0\Singertask.dll
+C:\Users\Sheki-Komp\Desktop\classhometask\Singertask\Singertask\obj\Debug\net8.0\refint\Singertask.dll
+C:\Users\Sheki-Komp\Desktop\classhometask\Singertask\Singertask\obj\Debug\net8.0\Singertask.pdb
+C:\Users\Sheki-Komp\Desktop\classhometask\Singertask\Singertask\obj\Debug\net8.0\Singertask.genruntimeconfig.cache
+C:\Users\Sheki-Komp\Desktop\classhometask\Singertask\Singertask\obj\Debug\net8.0\ref\Singertask.dll
