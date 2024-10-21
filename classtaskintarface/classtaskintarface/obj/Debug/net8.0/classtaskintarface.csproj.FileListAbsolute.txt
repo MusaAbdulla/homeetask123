@@ -1,0 +1,15 @@
+C:\Users\Sheki-Komp\Desktop\classhometask\classtaskintarface\classtaskintarface\bin\Debug\net8.0\classtaskintarface.exe
+C:\Users\Sheki-Komp\Desktop\classhometask\classtaskintarface\classtaskintarface\bin\Debug\net8.0\classtaskintarface.deps.json
+C:\Users\Sheki-Komp\Desktop\classhometask\classtaskintarface\classtaskintarface\bin\Debug\net8.0\classtaskintarface.runtimeconfig.json
+C:\Users\Sheki-Komp\Desktop\classhometask\classtaskintarface\classtaskintarface\bin\Debug\net8.0\classtaskintarface.dll
+C:\Users\Sheki-Komp\Desktop\classhometask\classtaskintarface\classtaskintarface\bin\Debug\net8.0\classtaskintarface.pdb
+C:\Users\Sheki-Komp\Desktop\classhometask\classtaskintarface\classtaskintarface\obj\Debug\net8.0\classtaskintarface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sheki-Komp\Desktop\classhometask\classtaskintarface\classtaskintarface\obj\Debug\net8.0\classtaskintarface.AssemblyInfoInputs.cache
+C:\Users\Sheki-Komp\Desktop\classhometask\classtaskintarface\classtaskintarface\obj\Debug\net8.0\classtaskintarface.AssemblyInfo.cs
+C:\Users\Sheki-Komp\Desktop\classhometask\classtaskintarface\classtaskintarface\obj\Debug\net8.0\classtaskintarface.csproj.CoreCompileInputs.cache
+C:\Users\Sheki-Komp\Desktop\classhometask\classtaskintarface\classtaskintarface\obj\Debug\net8.0\classtaskintarface.sourcelink.json
+C:\Users\Sheki-Komp\Desktop\classhometask\classtaskintarface\classtaskintarface\obj\Debug\net8.0\classtaskintarface.dll
+C:\Users\Sheki-Komp\Desktop\classhometask\classtaskintarface\classtaskintarface\obj\Debug\net8.0\refint\classtaskintarface.dll
+C:\Users\Sheki-Komp\Desktop\classhometask\classtaskintarface\classtaskintarface\obj\Debug\net8.0\classtaskintarface.pdb
+C:\Users\Sheki-Komp\Desktop\classhometask\classtaskintarface\classtaskintarface\obj\Debug\net8.0\classtaskintarface.genruntimeconfig.cache
+C:\Users\Sheki-Komp\Desktop\classhometask\classtaskintarface\classtaskintarface\obj\Debug\net8.0\ref\classtaskintarface.dll
