@@ -1,0 +1,15 @@
+C:\Users\Sheki-Komp\Desktop\classhometask\indexertask1\indexertask1\bin\Debug\net8.0\indexertask1.exe
+C:\Users\Sheki-Komp\Desktop\classhometask\indexertask1\indexertask1\bin\Debug\net8.0\indexertask1.deps.json
+C:\Users\Sheki-Komp\Desktop\classhometask\indexertask1\indexertask1\bin\Debug\net8.0\indexertask1.runtimeconfig.json
+C:\Users\Sheki-Komp\Desktop\classhometask\indexertask1\indexertask1\bin\Debug\net8.0\indexertask1.dll
+C:\Users\Sheki-Komp\Desktop\classhometask\indexertask1\indexertask1\bin\Debug\net8.0\indexertask1.pdb
+C:\Users\Sheki-Komp\Desktop\classhometask\indexertask1\indexertask1\obj\Debug\net8.0\indexertask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sheki-Komp\Desktop\classhometask\indexertask1\indexertask1\obj\Debug\net8.0\indexertask1.AssemblyInfoInputs.cache
+C:\Users\Sheki-Komp\Desktop\classhometask\indexertask1\indexertask1\obj\Debug\net8.0\indexertask1.AssemblyInfo.cs
+C:\Users\Sheki-Komp\Desktop\classhometask\indexertask1\indexertask1\obj\Debug\net8.0\indexertask1.csproj.CoreCompileInputs.cache
+C:\Users\Sheki-Komp\Desktop\classhometask\indexertask1\indexertask1\obj\Debug\net8.0\indexertask1.sourcelink.json
+C:\Users\Sheki-Komp\Desktop\classhometask\indexertask1\indexertask1\obj\Debug\net8.0\indexertask1.dll
+C:\Users\Sheki-Komp\Desktop\classhometask\indexertask1\indexertask1\obj\Debug\net8.0\refint\indexertask1.dll
+C:\Users\Sheki-Komp\Desktop\classhometask\indexertask1\indexertask1\obj\Debug\net8.0\indexertask1.pdb
+C:\Users\Sheki-Komp\Desktop\classhometask\indexertask1\indexertask1\obj\Debug\net8.0\indexertask1.genruntimeconfig.cache
+C:\Users\Sheki-Komp\Desktop\classhometask\indexertask1\indexertask1\obj\Debug\net8.0\ref\indexertask1.dll
