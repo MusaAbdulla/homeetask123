@@ -1,0 +1,15 @@
+C:\Users\Sheki-Komp\Desktop\classhometask\ExpectionTask\ExpectionTask\bin\Debug\net8.0\ExpectionTask.exe
+C:\Users\Sheki-Komp\Desktop\classhometask\ExpectionTask\ExpectionTask\bin\Debug\net8.0\ExpectionTask.deps.json
+C:\Users\Sheki-Komp\Desktop\classhometask\ExpectionTask\ExpectionTask\bin\Debug\net8.0\ExpectionTask.runtimeconfig.json
+C:\Users\Sheki-Komp\Desktop\classhometask\ExpectionTask\ExpectionTask\bin\Debug\net8.0\ExpectionTask.dll
+C:\Users\Sheki-Komp\Desktop\classhometask\ExpectionTask\ExpectionTask\bin\Debug\net8.0\ExpectionTask.pdb
+C:\Users\Sheki-Komp\Desktop\classhometask\ExpectionTask\ExpectionTask\obj\Debug\net8.0\ExpectionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sheki-Komp\Desktop\classhometask\ExpectionTask\ExpectionTask\obj\Debug\net8.0\ExpectionTask.AssemblyInfoInputs.cache
+C:\Users\Sheki-Komp\Desktop\classhometask\ExpectionTask\ExpectionTask\obj\Debug\net8.0\ExpectionTask.AssemblyInfo.cs
+C:\Users\Sheki-Komp\Desktop\classhometask\ExpectionTask\ExpectionTask\obj\Debug\net8.0\ExpectionTask.csproj.CoreCompileInputs.cache
+C:\Users\Sheki-Komp\Desktop\classhometask\ExpectionTask\ExpectionTask\obj\Debug\net8.0\ExpectionTask.sourcelink.json
+C:\Users\Sheki-Komp\Desktop\classhometask\ExpectionTask\ExpectionTask\obj\Debug\net8.0\ExpectionTask.dll
+C:\Users\Sheki-Komp\Desktop\classhometask\ExpectionTask\ExpectionTask\obj\Debug\net8.0\refint\ExpectionTask.dll
+C:\Users\Sheki-Komp\Desktop\classhometask\ExpectionTask\ExpectionTask\obj\Debug\net8.0\ExpectionTask.pdb
+C:\Users\Sheki-Komp\Desktop\classhometask\ExpectionTask\ExpectionTask\obj\Debug\net8.0\ExpectionTask.genruntimeconfig.cache
+C:\Users\Sheki-Komp\Desktop\classhometask\ExpectionTask\ExpectionTask\obj\Debug\net8.0\ref\ExpectionTask.dll
