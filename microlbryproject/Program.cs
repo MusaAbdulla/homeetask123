@@ -85,7 +85,7 @@ class Program
         {
             book.ShowInfo();
             Console.Write(" Json Data :");
-            string data = File.ReadAllText(@"C:\Users\Ilqar\source\repos\MicroProject\Database.json");
+            string data = File.ReadAllText(@"C:\Users\Sheki-Komp\source\repos\microlbryproject\microlbryproject\Database\jsconfig1.json");
             Console.WriteLine(data);
         }
         else
@@ -121,5 +121,6 @@ class Program
     }
 
 }
+
 
 
