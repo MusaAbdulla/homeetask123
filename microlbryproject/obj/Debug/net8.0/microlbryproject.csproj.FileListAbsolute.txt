@@ -1,0 +1,4 @@
+C:\Users\Sheki-Komp\source\repos\microlbryproject\microlbryproject\obj\Debug\net8.0\microlbryproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sheki-Komp\source\repos\microlbryproject\microlbryproject\obj\Debug\net8.0\microlbryproject.AssemblyInfoInputs.cache
+C:\Users\Sheki-Komp\source\repos\microlbryproject\microlbryproject\obj\Debug\net8.0\microlbryproject.AssemblyInfo.cs
+C:\Users\Sheki-Komp\source\repos\microlbryproject\microlbryproject\obj\Debug\net8.0\microlbryproject.csproj.CoreCompileInputs.cache
