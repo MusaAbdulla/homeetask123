@@ -1,4 +1,4 @@
-﻿namespace MicroProject;
+namespace MicroProject;
 class Program
 {
     static void Main(string[] args)
@@ -26,14 +26,14 @@ class Program
                         Console.WriteLine("Quit");
                         break;
                     default:
-                        Console.WriteLine("Daxil Ettiyin Command Menu da yoxdu," + "Bunlardan birini daxil et !" +
+                        Console.WriteLine("Daxil Ettiyin cod Menu da yoxdu," + "Bunlari daxil etmelisen !" +
                             "\nMenu\r\n1. Add book\r\n2. Get book by id\r\n3. Remove book\r\n0. Quit");
                         break;
                 }
             }
             catch (NullReferenceException)
             {
-                Console.WriteLine("Daxil Ettiyin Id de kitabxanada kitab yoxdur");
+                Console.WriteLine("Daxil Ettiyin id de kitab kitabxanada  yoxdur");
                 PrintInfo();
             }
             catch (FormatException)
@@ -71,7 +71,7 @@ class Program
         };
         library.AddBook(newBook);
         string path = Newtonsoft.Json.JsonConvert.SerializeObject(library);
-        File.WriteAllText(@"C:\Users\Ilqar\source\repos\MicroProject\Database.json", path);
+        File.WriteAllText(@"C:\Users\Sheki-Komp\source\repos\microlbryproject\microlbryproject\Database\jsconfig1.json", path);
         Console.WriteLine("Book added successfully!");
     }
 
@@ -103,7 +103,8 @@ class Program
             library.RemoveBook(id);
 
         }
-        string filepath = @"C:\Users\Ilqar\source\repos\MicroProject\Database.json";
+        string filepath = @"C:\Users\Sheki-Komp\source\repos\microlbryproject\microlbryproject\Database\jsconfig1.json";
+       
         string jsonData = File.ReadAllText(filepath);
         //Book lib = JsonConverter.DeserializeObject<Book>(jsonData);
         //Console.WriteLine($"{lib.Id}{lib.AuthorName}{lib.Price}");
@@ -120,4 +121,5 @@ class Program
     }
 
 }
+
 
